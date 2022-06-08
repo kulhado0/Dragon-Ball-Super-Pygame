@@ -1,3 +1,5 @@
+this code is disgusting, i was just starting to develop.
+
 # Dragon-Ball-Super-Pygame"
 - In Development
 - Every week one commit 😊😊
